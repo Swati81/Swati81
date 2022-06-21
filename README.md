@@ -8,4 +8,10 @@
    
    <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
    
+   - 💬 Ask me about anything, I am happy to help & discuss.
+   - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
+   - 👯 I'm looking for colaboration on interesting problem solving projects.
+   - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
+   - 📝 [Resume](https://drive.google.com/file/d/1g9dkWZf4sMDVrHYpeVbqJ2IcbXQhLz4y/view?usp=sharing)
+   
    
