@@ -1,4 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+<a href="[https://www.linkedin.com/in/ketan-gangal/](https://www.linkedin.com/in/swati-sinha-401706206/)">
+  <img align="left" alt="LinkedIN Swati" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **Swati81/Swati81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
