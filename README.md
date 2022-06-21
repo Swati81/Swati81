@@ -9,8 +9,6 @@
 
  <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
 ---
-
-
 :zap: GitHub Stats
 
 <p float="left">
