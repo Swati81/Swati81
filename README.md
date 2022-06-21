@@ -38,7 +38,7 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
 
 ## Connect 🤝
 <a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN Swati" width="22px"/></a>
-<a href="https://www.kaggle.com/swati 025"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" alt="kaggle Swati" width="22px"/></a>
+<a href="https://www.kaggle.com/swati025"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" alt="kaggle Swati" width="22px"/></a>
 
 
 
