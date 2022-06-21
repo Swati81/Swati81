@@ -4,3 +4,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Swati81.Swati81)
+
+
+I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise are Machine Learning, Deep Learning & Computer vision. I am currently focusing on more deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field. 
