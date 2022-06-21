@@ -38,6 +38,11 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
 
 ## Connect 🤝
 
+[youtube]: https://www.youtube.com/channel/UCraS0zXqNYmW3T7s8m7WzWA
+[instagram]: https://www.instagram.com/getsetcode47/
+[linkedin]: https://www.linkedin.com/in/swati-sinha-401706206/
+[Gmail]: sinhaswati025@gmail.com
+
 
 
    
