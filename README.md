@@ -6,9 +6,9 @@
    - 👯 I'm looking for colaboration on interesting data science projects & technologies .
    - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
    - 📝 [Resume](https://drive.google.com/file/d/1g9dkWZf4sMDVrHYpeVbqJ2IcbXQhLz4y/view?usp=sharing)
-
- <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
 ---
+ <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
+
 :zap: GitHub Stats
 
 <p float="left">
