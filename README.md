@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
-<a href="[https://www.linkedin.com/in/ketan-gangal/](https://www.linkedin.com/in/swati-sinha-401706206/)">
+<a href="[https://www.linkedin.com/in/ketan-gangal/]">
   <img align="left" alt="LinkedIN Swati" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
