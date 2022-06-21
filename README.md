@@ -36,7 +36,7 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
 
-
+## Connect 🤝
 
 
 
