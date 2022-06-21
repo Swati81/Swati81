@@ -8,20 +8,17 @@
    - 📝 [Resume](https://drive.google.com/file/d/1g9dkWZf4sMDVrHYpeVbqJ2IcbXQhLz4y/view?usp=sharing)
 
  <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
- ---
- 📈 My GitHub Stats
+---
+
+
+:zap: GitHub Stats
 
 <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swati81&show_icons=true&theme=gotham" alt="Swati81" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=Swati81&show_icons=true&theme=gotham" alt="Swati81" width="300" />
 </p>  
 
----
 
-
-:zap: GitHub Stats
-
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Swati81&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati81&layout=compact&theme=radical)](https://github.com/Swati81/)
 
    
    
