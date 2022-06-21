@@ -36,9 +36,10 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
 
-## Connect 🤝
-<a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN Swati" width="22px"/></a>
-<a href="https://www.kaggle.com/swati025"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" alt="kaggle Swati" width="22px"/></a>
+## Connect with me 🤝
+<a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Swati" width="22px"/></a>
+![](https://visitor-badge.glitch.me/badge?page_id=Swati81.Swati81)
+
 
 
 
