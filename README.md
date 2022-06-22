@@ -9,7 +9,7 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
    - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
    - 👯 I'm looking for colaboration on interesting data science technologies 
    - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
-   - 📝 [Resume](https://drive.google.com/file/d/1ICbDjnl34N6TFHGGeeAwnmB7Dx1e1eyo/view?usp=sharing)
+   - 📝 [Resume](https://drive.google.com/file/d/1KxxqhPewIlCi5RZ6xR8T1apNrIprn40c/view?usp=sharing)
 ---
  
 
