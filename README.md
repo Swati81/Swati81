@@ -1,5 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
+## Connect with me 🤝
+<a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Swati" width="22px"/></a>
+![](https://visitor-badge.glitch.me/badge?page_id=Swati81.Swati81)
+
 I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise are Machine Learning, Deep Learning & Computer vision. I am currently focusing on more  deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
   --- 
   
@@ -9,8 +13,9 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
    - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
    - 👯 I'm looking for colaboration on interesting data science technologies 
    - 💻 [Portfolio](https://website-swati.herokuapp.com/)
-   - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
    - 📝 [Resume](https://drive.google.com/file/d/1CmhM5MJGXldTEzteTlDD67Dpjc0-w2oP/view?usp=sharing)
+   - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
+   
    
 ---
  
@@ -38,9 +43,7 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
 
-## Connect with me 🤝
-<a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Swati" width="22px"/></a>
-![](https://visitor-badge.glitch.me/badge?page_id=Swati81.Swati81)
+
 
 
 
