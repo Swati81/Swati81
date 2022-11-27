@@ -10,7 +10,7 @@ I'm Swati Sinha, a Passionate and Aspiring Data Scientist. My area of expertise 
   <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
   
    - 💬 Ask me about anything, I am happy to help & discuss.
-   - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
+   - 🔭 I’m currently working as Data Scientist at Impetus Technologies.
    - 👯 I'm looking for colaboration on interesting data science technologies 
    - 💻 [Portfolio](https://website-swati.herokuapp.com/)
    - 📝 [Resume](https://drive.google.com/file/d/1GwO_pBBYnKPrK153c8MJXZ5meKjBYztB/view?usp=sharing)
