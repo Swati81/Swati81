@@ -14,7 +14,7 @@ I'm Swati Sinha, a Data Scientist at Impetus Technologies. My area of expertise 
    - 👯 I'm looking for colaboration on interesting data science technologies 
    - 💻 [Portfolio](https://website-swati.herokuapp.com/)
    - 📝 [Resume](https://drive.google.com/file/d/1GwO_pBBYnKPrK153c8MJXZ5meKjBYztB/view?usp=sharing)
-   - 📫 How to reach me: [Gmail](mailto:sinhaswati025@.com)
+   - :email: How to reach me: [Gmail](mailto:sinhaswati025@.com)
    
    
 ---
