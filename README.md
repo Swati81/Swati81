@@ -2,7 +2,7 @@
 
 ## Connect with me 🤝
 <a href="https://www.linkedin.com/in/swati-sinha-401706206/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Swati" width="22px"/></a>
-![](https://visitor-badge.glitch.me/badge?page_id=Swati81.Swati81)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Swati81&label=Profile%20views&color=0e75b6&style=flat" alt="Swati81" /> </p>
 
 I'm Swati Sinha, a Data Scientist at Impetus Technologies. My area of expertise are Machine Learning, Deep Learning & Computer vision. I am currently focusing on more  deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
   --- 
