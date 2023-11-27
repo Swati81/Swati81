@@ -18,15 +18,6 @@ I'm Swati Sinha, a Data Scientist at Impetus Technologies. My area of expertise 
    - :email: How to reach me: [Gmail](mailto:sinhaswati025@.com)
    
    
----
- 
-
-:zap: GitHub Stats
-
-<p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swati81&show_icons=true&theme=gotham" alt="Swati81" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Swati81&show_icons=true&theme=gotham" alt="Swati81" width="300" />
-</p>  
 
 ---
 <h3 align="left">Languages and Tools:</h3>
