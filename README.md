@@ -5,7 +5,7 @@
 <a href="https://www.kaggle.com/swati025"> <img src="" alt="KAGGLE | Swati" width="22px"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swati81&label=Profile%20views&color=0e75b6&style=flat" alt="Swati81" /> </p>
 
-I'm Swati Sinha, a Data Scientist at Impetus Technologies. My area of expertise are Machine Learning, Deep Learning & Computer vision. I am currently focusing on more  deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
+I'm Swati Sinha, a Data Scientist at Impetus Technologies. My area of expertise are Machine Learning, Deep Learning, Computer vision & Generative AI. I am currently focusing on more  deeper parts of Generative AI its RAG piepline, Vector Ingestion, knowledge Base, Finetuning techniques etc.. and trying to understand them better.
   --- 
   
   <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
